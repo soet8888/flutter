@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "777682203478",
+    "firebase_url": "https://mokkon-pos-dev.firebaseio.com",
+    "project_id": "mokkon-pos-dev",
+    "storage_bucket": "mokkon-pos-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777682203478:android:758297df0f9044a2",
+        "android_client_info": {
+          "package_name": "com.mokkon.award"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777682203478-63s279v60fohdsjrl64ljudmh64ir30r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0df0vvEdIMY4lOjgJAgeG8wt6U6tH8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777682203478-63s279v60fohdsjrl64ljudmh64ir30r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777682203478:android:b50742165fe8e399",
+        "android_client_info": {
+          "package_name": "com.mokkon.cards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777682203478-63s279v60fohdsjrl64ljudmh64ir30r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0df0vvEdIMY4lOjgJAgeG8wt6U6tH8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777682203478-63s279v60fohdsjrl64ljudmh64ir30r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777682203478:android:a87b30dae6b33a36",
+        "android_client_info": {
+          "package_name": "com.mokkon.pos.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777682203478-63s279v60fohdsjrl64ljudmh64ir30r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0df0vvEdIMY4lOjgJAgeG8wt6U6tH8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777682203478-63s279v60fohdsjrl64ljudmh64ir30r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
